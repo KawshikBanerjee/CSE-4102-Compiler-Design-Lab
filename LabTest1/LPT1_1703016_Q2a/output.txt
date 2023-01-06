@@ -1,0 +1,8 @@
+Amount -> 10
+Fruit -> Apples
+
+Amount -> 10
+Fruit -> Oranges
+
+Amount -> 10
+Fruit -> Mangoes

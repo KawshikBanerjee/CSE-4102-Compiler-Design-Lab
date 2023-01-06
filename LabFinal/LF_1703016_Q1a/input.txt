@@ -1,0 +1,15 @@
+main () function 
+
+suru
+
+       dhori x hocche type integer
+
+       dhori y hocche type integer
+
+       x soman 10
+
+       y  soman 20 jog 30 biyog x
+
+       y k print kori
+
+sesh

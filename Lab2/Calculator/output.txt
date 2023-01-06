@@ -1,0 +1,5 @@
+15 NUM
+- SUB
+7 NUM
+=8
+Parsing Finished

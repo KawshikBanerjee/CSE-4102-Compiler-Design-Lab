@@ -1,0 +1,1 @@
+Q1.  Consider the following code snippet: func add (a as int, b as double) { return a + b; }  a) Perform Lexical Analysis on the given code snippet. b) Perform Syntax Analysis on the given code snippet. c) Perform Semantic Analysis on the given code snippet.

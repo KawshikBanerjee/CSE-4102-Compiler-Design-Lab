@@ -1,0 +1,2 @@
+a is not declared
+Syntax error at line 1

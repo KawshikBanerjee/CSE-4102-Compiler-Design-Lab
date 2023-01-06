@@ -1,0 +1,3 @@
+Eat 10 Apple
+Eat 20 Orange
+Eat 30 Mango

@@ -1,0 +1,52 @@
+main sub () ar
+
+suru
+
+       dhori x hocche type integer
+
+       dhori y hocche type integer
+
+       dhori pp hocche type integer  
+
+       x soman 10
+
+       y soman 20 jog 30 biyog x
+
+
+       pp  soman  0
+
+     
+
+       jodi x boro y ar
+
+       suru
+
+              x +soman 1
+
+       sesh
+
+       abar jodi x choto y ar
+
+       suru
+
+               x  +soman 2
+
+       sesh
+
+       tao_jodi_na_hoi
+
+       suru
+                 pp +soman 1
+
+        sesh
+
+
+        jodi x boro 0 ar
+
+        suru
+
+               y k print kori
+
+       sesh
+
+sesh

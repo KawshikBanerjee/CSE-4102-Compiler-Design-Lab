@@ -1,0 +1,16 @@
+function -> FUNCTION
+isEven -> ID
+( -> LP
+n -> ID
+: -> COLON
+int -> INT_TYPE
+) -> RP
+begin -> BEG
+return -> RET
+n -> ID
+% -> MOD
+2.0 -> FLOAT_NUM
+== -> EQUAL
+0 -> INT_NUM
+; -> SEMI
+end -> END
